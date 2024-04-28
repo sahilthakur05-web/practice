@@ -1,2 +1,2 @@
 # practice
-Author - Sahil Thakur
+Author - Sahil Thakur(web dev)
